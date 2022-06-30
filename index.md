@@ -6,3 +6,22 @@
 ###### This is an h6 header.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+const sayHello => {console.log('hello');
+```
+
+- Head
+- Shoulders
+- Elbows
+- Knees
+- Toes
+
+1. This is one
+   - nested one
+2. This is two
+   - nested two
+     - subnested two
+     
+- [x] finished task
+- [ ] unfinished task
